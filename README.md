@@ -1,2 +1,2 @@
 # thesis-vids
-thesis videos
+Links to videos pertaining to the thesis
